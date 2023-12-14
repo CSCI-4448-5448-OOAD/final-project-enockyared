@@ -1,0 +1,144 @@
+----------------------------------------
+Team,Lakers,17
+Player,Lebron James,36,Balanced_superstar,Superstar,Small_forward
+Player,Anthony Davis,29,Paint_beast,Superstar,Power_forward
+Player,Dennis Shroder,26,Offensive_playmaker,Starter,Point_guard
+Player,KCP,30,Pure_shooter,Starter,Shooting_guard
+Player,Marc Gasol,35,Inside_defender,Starter,Center
+Player,Montrez Harrell,27,Energetic_rebounder,Sixth_man,Center
+Player,Kyle Kuzma,22,Pure_shooter,Bench,Small_forward
+Player,Alex Caruso,25,Defensive_playmaker,Bench,Point_guard
+Player,Wesley Matthews,34,Pure_shooter,Bench,Shooting_guard
+**********************************************
+----------------------------------------
+Team,Sixers,3
+Player,Ben Simmons,25,Defensive_playmaker,Star,Point_guard
+Player,Joel Embiid,27,Paint_beast,Superstar,Center
+Player,Seth Curry,30,Pure_shooter,Starter,Shooting_guard
+Player,Danny Green,33,Three_and_D,Starter,Small_forward
+Player,Tobias Harris,29,Three_level_scorer,Starter,Small_forward
+Player,Shake Milton,20,Playmaker,Sixth_man,Point_guard
+Player,Dwight Howard,36,Energetic_rebounder,Bench,Center
+Player,Matisse Thybulle,20,Perimeter_defender,Bench,Small_forward
+Player,Tyrese Maxey,20,Playmaker,Bench,Point_guard
+**********************************************
+----------------------------------------
+Team,Warriors,5
+Player,Stephen Curry,30,Offensive_superstar,Superstar,Point_guard
+Player,Klay Thompson,30,Three_and_D,Star,Shooting_guard
+Player,Andrew Wiggins,25,Three_level_scorer,Starter,Small_forward
+Player,Draymond Green,31,Defensive_playmaker,Star,Power_forward
+Player,James Wiseman,20,Energetic_rebounder,Starter,Center
+Player,Kelly Oubre,24,Three_level_scorer,Sixth_man,Small_forward
+Player,Brad Wannamaker,30,Playmaker,Bench,Point_guard
+Player,Eric Pascall,22,Stretch_big,Bench,Power_forward
+Player,Kevon Looney,24,Inside_defender,Bench,Center
+**********************************************
+----------------------------------------
+Team,Celtics,17
+Player,Kevin Durant,33,Offensive_superstar,Superstar,Small_forward
+Player,James Harden,31,Offensive_superstar,Superstar,Shooting_guard
+Player,Kyrie Irving,30,Offensive_superstar,Star,Point_guard
+Player,Joe Harris,25,Pure_shooter,Starter,Power_forward
+Player,Deandre Jordan,33,Energetic_rebounder,Starter,Center
+Player,Spencer Dinwiddie,29,Offensive_playmaker,Sixth_man,Point_guard
+Player,Jeff Green,35,Perimeter_defender,Bench,Power_forward
+Player,Bruce Brown,33,Playmaker,Bench,Shooting_guard
+Player,TLC,25,Pure_shooter,Bench,Small_forward
+**********************************************
+----------------------------------------
+Team,Nuggets,1
+Player,Nikola Jokic,25,Offensive_superstar,Superstar,Center
+Player,Jamal Murray,23,Offensive_playmaker,Star,Point_guard
+Player,Michael Porter Jr.,22,Three_level_scorer,Starter,Small_forward
+Player,Aaron Gordon,25,In_out_defender,Starter,Power_forward
+Player,Will Barton,30,Pure_shooter,Starter,Shooting_guard
+Player,Paul Millsap,35,Energetic_rebounder,Sixth_man,Power_forward
+Player,Monte Morris,25,Playmaker,Bench,Point_guard
+Player,JaMychal Green,30,Stretch_big,Bench,Power_forward
+Player,Gary Harris,26,Perimeter_defender,Bench,Shooting_guard
+**********************************************
+----------------------------------------
+Team,Suns,0
+Player,Chris Paul,35,Point_god,Superstar,Point_guard
+Player,Devin Booker,24,Balanced_superstar,Star,Shooting_guard
+Player,Deandre Ayton,22,Paint_beast,Starter,Center
+Player,Mikal Bridges,24,Three_and_D,Starter,Small_forward
+Player,Jae Crowder,30,Perimeter_defender,Starter,Power_forward
+Player,Cameron Payne,26,Offensive_playmaker,Sixth_man,Point_guard
+Player,Dario Saric,26,Stretch_big,Bench,Power_forward
+Player,Cameron Johnson,24,Pure_shooter,Bench,Small_forward
+Player,Jevon Carter,25,Defensive_playmaker,Bench,Point_guard
+**********************************************
+----------------------------------------
+Team,Clippers,0
+Player,Kawhi Leonard,29,Two_way_superstar,Superstar,Small_forward
+Player,Paul George,30,Three_and_D,Star,Shooting_guard
+Player,Serge Ibaka,31,Stretch_big,Starter,Power_forward
+Player,Patrick Beverley,32,Defensive_playmaker,Starter,Point_guard
+Player,Ivica Zubac,23,Inside_defender,Starter,Center
+Player,Lou Williams,34,Offensive_playmaker,Sixth_man,Point_guard
+Player,Marcus Morris Sr.,31,Pure_shooter,Bench,Small_forward
+Player,Reggie Jackson,30,Playmaker,Bench,Point_guard
+Player,Luke Kennard,24,Three_level_scorer,Bench,Shooting_guard
+**********************************************
+----------------------------------------
+Team,Timberwolves,0
+Player,Karl-Anthony Towns,25,Offensive_superstar,Superstar,Center
+Player,D'Angelo Russell,24,Offensive_playmaker,Star,Point_guard
+Player,Anthony Edwards,19,Three_level_scorer,Starter,Shooting_guard
+Player,Malik Beasley,24,Pure_shooter,Starter,Small_forward
+Player,Jarrett Culver,21,Defensive_playmaker,Starter,Power_forward
+Player,Ricky Rubio,30,Playmaker,Sixth_man,Point_guard
+Player,Juan Hernangomez,25,Stretch_big,Bench,Power_forward
+Player,Naz Reid,21,Inside_defender,Bench,Center
+Player,Jaden McDaniels,20,Perimeter_defender,Bench,Small_forward
+**********************************************
+----------------------------------------
+Team,Heat,12
+Player,Jimmy Butler,31,Balanced_superstar,Superstar,Small_forward
+Player,Bam Adebayo,23,Paint_beast,Star,Center
+Player,Tyler Herro,21,Three_level_scorer,Starter,Shooting_guard
+Player,Goran Dragic,34,Offensive_playmaker,Starter,Point_guard
+Player,Duncan Robinson,26,Pure_shooter,Starter,Small_forward
+Player,Andre Iguodala,36,Perimeter_defender,Sixth_man,Small_forward
+Player,Kendrick Nunn,25,Playmaker,Bench,Point_guard
+Player,Precious Achiuwa,21,Energetic_rebounder,Bench,Power_forward
+Player,Max Strus,24,Three_and_D,Bench,Shooting_guard
+**********************************************
+----------------------------------------
+Team,Mavericks,10
+Player,Luka Doncic,21,Offensive_superstar,Superstar,Point_guard
+Player,Kristaps Porzingis,25,Stretch_big,Star,Power_forward
+Player,Tim Hardaway Jr.,28,Pure_shooter,Starter,Shooting_guard
+Player,Josh Richardson,27,Three_and_D,Starter,Small_forward
+Player,Dwight Powell,29,Inside_defender,Starter,Center
+Player,Jalen Brunson,24,Playmaker,Sixth_man,Point_guard
+Player,Maxi Kleber,29,Perimeter_defender,Bench,Power_forward
+Player,Willie Cauley-Stein,27,Energetic_rebounder,Bench,Center
+Player,Trey Burke,28,Offensive_playmaker,Bench,Point_guard
+**********************************************
+----------------------------------------
+Team,Bucks,11
+Player,Giannis Antetokounmpo,26,Two_way_superstar,Superstar,Power_forward
+Player,Khris Middleton,29,Three_and_D,Star,Small_forward
+Player,Jrue Holiday,30,Defensive_playmaker,Starter,Point_guard
+Player,Brook Lopez,32,Stretch_big,Starter,Center
+Player,Donte DiVincenzo,24,Perimeter_defender,Starter,Shooting_guard
+Player,Bobby Portis,26,Energetic_rebounder,Sixth_man,Power_forward
+Player,Pat Connaughton,28,Three_level_scorer,Bench,Shooting_guard
+Player,Bryn Forbes,27,Pure_shooter,Bench,Point_guard
+Player,P.J. Tucker,35,In_out_defender,Bench,Small_forward
+**********************************************
+----------------------------------------
+Team,76ers,9
+Player,Joel Embiid,27,Paint_beast,Superstar,Center
+Player,Ben Simmons,24,Defensive_playmaker,Star,Point_guard
+Player,Tobias Harris,28,Three_level_scorer,Starter,Small_forward
+Player,Danny Green,33,Three_and_D,Starter,Shooting_guard
+Player,Seth Curry,30,Pure_shooter,Starter,Point_guard
+Player,Matisse Thybulle,23,Perimeter_defender,Sixth_man,Small_forward
+Player,Shake Milton,24,Playmaker,Bench,Point_guard
+Player,Tyrese Maxey,20,Offensive_playmaker,Bench,Shooting_guard
+Player,Dwight Howard,35,Energetic_rebounder,Bench,Center
+**********************************************
